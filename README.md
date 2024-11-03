@@ -1,6 +1,6 @@
 
 https://github.com/user-attachments/assets/fa745f95-dd85-42ef-8ef8-597d58a46798
-![components](https://github.com/user-attachments/assets/e508e9a7-6d84-41b1-b350-3c8ffb816657)<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
 
 # USELESS PROJECT
 
