@@ -1,6 +1,5 @@
 
-https://github.com/user-attachments/assets/fa745f95-dd85-42ef-8ef8-597d58a46798
-
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # USELESS PROJECT
 
