@@ -34,7 +34,8 @@ MB102,breadboard,jumper wires,9v battery and dc connector
 
 
 # Run
-[commands]
+connect the chargeur and run the 'chargeur inutile' app on phone
+
 
 ### Project Documentation
 For Software:
