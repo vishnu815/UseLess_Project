@@ -1,0 +1,15 @@
+
+
+<resources>
+<string name="app_name">Chargeur Inutile</string>
+    <string name="battery_level_text">Battery Level: current level</string>
+<string name="specifications_text">Specifications: battery life normal; successfully charging</string>
+<string name="charging_notification_title">Charging Status</string>
+<string name="charging_notification_content">Nokkirunno</string>
+    <string name="image_description">Description of the image displayed in the app</string>
+    <string name="anotherspecifications_text">Specifications: Charging: Fast Charging\nTemperature: 30°C\nVoltage: 4.2V</string> <!-- New string -->
+</resources>
+
+
+
+
